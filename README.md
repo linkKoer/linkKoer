@@ -14,8 +14,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer working on interesti
 
 <div align="center">
 
-[![SNIBypassGUI](https://github-readme-stats.racpast.com/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=1)](https://github.com/racpast/SNIBypassGUI)
-</div>
+
 
 ### 🤝 Contributions
 I also contribute to several open-source projects! If you're interested, feel free to check out the following:
